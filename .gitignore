@@ -1,0 +1,7 @@
+node_modules/
+.next/
+.env
+.agent/
+.opencode/
+tsc_errors.txt
+tsconfig.tsbuildinfo
