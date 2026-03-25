@@ -1,5 +1,5 @@
-# 🌐 OpenCode (Robust IT Solutions)
-![OpenCode Interface Preview](./preview.png)
+# 🌐 AMBTI (Robust IT Solutions)
+![AMBTI Interface Preview](./preview.png)
 > 🇧🇷 (Portuguese) / 🇺🇸 (English) versions available below.
 
 ---
@@ -7,7 +7,7 @@
 ## 🇧🇷 Português (PT-BR)
 
 ### 📋 Sobre o Projeto
-**OpenCode / Logo IT Solutions** é uma landing page corporativa de alta performance desenvolvida em **Next.js (App Router)** e **TypeScript**, focada em infraestrutura de sistemas técnicos comerciais. O projeto foi projetado adotando as melhores práticas vigentes de **SEO Avançado**, **Acessibilidade WAI-ARIA**, design responsivo "Mobile-First" sem degradação visual, e mitigação ativa de vetores listados no **OWASP Top 10**.
+**AMBTI / Logo IT Solutions** é uma landing page corporativa de alta performance desenvolvida em **Next.js (App Router)** e **TypeScript**, focada em infraestrutura de sistemas técnicos comerciais. O projeto foi projetado adotando as melhores práticas vigentes de **SEO Avançado**, **Acessibilidade WAI-ARIA**, design responsivo "Mobile-First" sem degradação visual, e mitigação ativa de vetores listados no **OWASP Top 10**.
 
 ### 🎯 Funcionalidades
 - 🚀 **Animações Fluidas:** Uso robusto do Framer-Motion para transições premium.
@@ -65,7 +65,7 @@ Alinhado com a **Métrica A01:2021 (Broken Access Control)** e prevenção prim�
 O código é alimentado e empacotado via ecossistema React/Next moderno. 
 
 **Requisitos:** Node.js v18+.
-1. Abra o diretório do projeto no terminal (`.../projetos/opencode`).
+1. Abra o diretório do projeto no terminal (`.../projetos/ambti`).
 2. Instale as dependências com `npm install`.
 3. Rode o servidor de desenvolvimento: `npm run dev`.
 4. Abra `http://localhost:3000` em seu navegador.
@@ -75,7 +75,7 @@ O código é alimentado e empacotado via ecossistema React/Next moderno.
 ## 🇺🇸 English (EN)
 
 ### 📋 About the Project
-**OpenCode** is a premium corporate landing page geared towards enterprise IT infrastructure, natively powered by **Next.js (App Router)** & **TypeScript**. The application shines by adhering to strict **Advanced SEO guidelines**, **WAI-ARIA Accessibility** rulesets, and mitigating crucial **OWASP Top 10** attack vectors seamlessly.
+**AMBTI** is a premium corporate landing page geared towards enterprise IT infrastructure, natively powered by **Next.js (App Router)** & **TypeScript**. The application shines by adhering to strict **Advanced SEO guidelines**, **WAI-ARIA Accessibility** rulesets, and mitigating crucial **OWASP Top 10** attack vectors seamlessly.
 
 ### 🎯 Core Features
 - 🚀 **Fluid Aesthetics:** High-fidelity animations powered fundamentally by framer-motion layers.
@@ -108,7 +108,7 @@ The project actively mitigates vulnerabilities outlined in the **OWASP Top 10** 
 
 ### 🚀 Running the App
 Powered by modern Next.js environments, typical NodeJS tooling applies:
-1. Fire up a terminal inside `/projetos/opencode`.
+1. Fire up a terminal inside `/projetos/ambti`.
 2. Sync dependencies using `npm install`.
 3. Trigger the NextJS CLI compiler through `npm run dev`.
 4. Target `http://localhost:3000` on your preferred browser.
